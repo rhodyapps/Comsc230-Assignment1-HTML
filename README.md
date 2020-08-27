@@ -42,7 +42,7 @@ git remote add origin https://github.com/** your github user **/Comsc230-Assignm
 
 git push -u origin master
 
-Part 5: Submit your assigment on Bridges
+Part 5: Submit your assignment on Bridges
 
 in the 'Assignments' folder on Bridges course website
 Submit a copy of the modified HTML page (a1-w3schools-example1.html) to receive credit for 'Assignment 1'
