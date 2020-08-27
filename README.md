@@ -5,14 +5,14 @@ First assignment basic html and css.
 Part 1: Organize your project files
 
 1. On your computer 'Documents' folder, create a new folder called 'GitHub'
-2. In the GitHub folder, create a new folder: Comsc230-Assignments
+2. In the GitHub folder, create a new folder: 'RWU' and another folder 'Comsc230' and another folder 'Assignments'
 
 Part 2: Clone the repo
 
-1. Clone this repository using GitHub Desktop ** Important: point the local path to the Comsc230-Assignments folder
+1. Clone this repository using GitHub Desktop ** Important: point the local path to the local RWU/Comsc230/Assignments folder
 2. Open in VS Code, look at the files in the project, you should see the README and in the 'src' folder two html files
 3. Open each of the html files using Google Chrome browser
-File/Open/Documents/GitHub/Comsc230/Comsc230-Assignment1-HTML/src/a1-hello-v1.html
+File/Open/Documents/GitHub/RWU/Comsc230/Assignments/Comsc230-Assignment1-HTML/src/a1-hello-v1.html
 4. Open Chrome developer tools: View/Developer/Developer Tools
 
 Part 3: Create a new web page
